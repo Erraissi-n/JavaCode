@@ -13,6 +13,7 @@ public class ArrayVsArrayList {
         System.out.println(numbersArray[0]);
         System.out.println(numbersArrayList.get(0));
 
+
         //Get length
         System.out.println(numbersArray.length);    //field
         System.out.println(numbersArrayList.size());  //method
